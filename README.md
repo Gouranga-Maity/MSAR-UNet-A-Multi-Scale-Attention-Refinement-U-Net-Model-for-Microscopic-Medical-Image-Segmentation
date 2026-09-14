@@ -134,34 +134,46 @@ and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively.
 <table>
   <thead>
     <tr>
-      <th rowspan="2">Train Dataset</th>
-      <th colspan="2">MoNuSeg</th>
-      <th colspan="2">CoNSeP-Binary</th>
+      <th rowspan="2">Training / Validation Dataset</th>
+      <th colspan="2">TNBC (Test)</th>
+      <th colspan="2">MoNuSeg (Test)</th>
+      <th colspan="2">CoNSeP-Binary (Test)</th>
     </tr>
     <tr>
+      <th>Dice</th>
+      <th>IoU</th>
       <th>Dice</th>
       <th>IoU</th>
       <th>Dice</th>
       <th>IoU</th>
     </tr>
   </thead>
+
   <tbody>
     <tr>
       <td><strong>TNBC</strong></td>
+      <td>—</td>
+      <td>—</td>
       <td>0.6712</td>
       <td>0.5051</td>
       <td>0.6924</td>
       <td>0.5298</td>
     </tr>
+
     <tr>
       <td><strong>MoNuSeg</strong></td>
+      <td>0.7005</td>
+      <td>0.5429</td>
       <td>—</td>
       <td>—</td>
       <td>0.7143</td>
       <td>0.5558</td>
     </tr>
+
     <tr>
       <td><strong>CoNSeP-Binary</strong></td>
+      <td>0.6712</td>
+      <td>0.5051</td>
       <td>0.6924</td>
       <td>0.5298</td>
       <td>—</td>
@@ -169,6 +181,8 @@ and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively.
     </tr>
   </tbody>
 </table>
+
+<p><strong>Note:</strong> Each row represents the dataset used for training and validation, while each column group represents an independent test dataset. The diagonal entries (—) indicate that cross-dataset evaluation was not performed for the same training and test dataset.</p>
 
 
 # Qualitative Visualization Analysis
