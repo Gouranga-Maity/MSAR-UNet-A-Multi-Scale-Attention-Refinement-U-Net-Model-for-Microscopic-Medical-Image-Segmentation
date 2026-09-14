@@ -28,6 +28,9 @@ and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively.
 # Multi-Scale Dilated Residual Block (MSDRB)
 <img width="2731" height="798" alt="MSDRB-1" src="https://github.com/user-attachments/assets/3996a742-f6d6-4386-b228-c762de996dfa" />
 
+# Loss, Dice, Iou Curve
+<img width="1821" height="606" alt="MSAR_Unet_Curve" src="https://github.com/user-attachments/assets/4636b008-019e-40e6-9fce-4290d696dcc0" />
+
 # Dataset Description
 <table>
 <thead>
