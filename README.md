@@ -23,6 +23,54 @@ and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively.
 
 <img width="2000" height="1125" alt="overall_Final_v3-1" src="https://github.com/user-attachments/assets/02fa2fb4-c695-44b0-b481-9bdd10d479e3" />
 
+#Dataset Description
+<table>
+<thead>
+<tr>
+<th>Dataset</th>
+<th>Modality</th>
+<th>Organ</th>
+<th>Images</th>
+<th>Magnification</th>
+<th>Resolution</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MoNuSeg</td>
+<td>Microscopic</td>
+<td>7</td>
+<td>51</td>
+<td>40×</td>
+<td>1000 × 1000</td>
+</tr>
+<tr>
+<td>TNBC</td>
+<td>Microscopic</td>
+<td>1</td>
+<td>50</td>
+<td>40×</td>
+<td>512 × 512</td>
+</tr>
+<tr>
+<td>ConSeP</td>
+<td>Microscopic</td>
+<td>1</td>
+<td>41</td>
+<td>40×</td>
+<td>1000 × 1000</td>
+</tr>
+<tr>
+<td>DDT1</td>
+<td>Ultrasound</td>
+<td>1</td>
+<td>637</td>
+<td>–</td>
+<td>380 × 420</td>
+</tr>
+</tbody>
+</table>
+
 # Model Ablation Table
 <table>
 <tr>
