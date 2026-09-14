@@ -20,6 +20,7 @@ tent improvements over the U-Net baselines and several state-of-the-art
 methods. MSAR-UNet achieves Dice scores of 80.69%, 83.48%, 77.26%,
 and 85.97%, with corresponding IoU scores of 67.66%, 71.65%, 62.94%,
 and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively. 
+
 <img width="2000" height="1125" alt="overall_Final_v3-1" src="https://github.com/user-attachments/assets/02fa2fb4-c695-44b0-b481-9bdd10d479e3" />
 
 
@@ -78,73 +79,6 @@ and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively.
 <td><b>75.58</b></td>
 </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
