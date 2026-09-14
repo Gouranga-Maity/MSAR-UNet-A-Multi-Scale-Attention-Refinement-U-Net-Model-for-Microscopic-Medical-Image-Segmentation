@@ -81,6 +81,12 @@ and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively.
 </table>
 
 
+# Qualitative Visualization Analysis
+
+<img width="2643" height="915" alt="Finalgradacm_MSAR" src="https://github.com/user-attachments/assets/7c161f19-fa9e-4a9e-ae47-cc3ee29a9d96" />
+
+
+
 
 
 
