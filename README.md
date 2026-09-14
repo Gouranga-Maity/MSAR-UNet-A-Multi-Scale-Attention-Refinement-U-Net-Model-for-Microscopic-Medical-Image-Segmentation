@@ -160,7 +160,7 @@ and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively.
       <td>0.5298</td>
     </tr>
 
-    <tr>
+   <tr>
       <td><strong>MoNuSeg</strong></td>
       <td>0.7005</td>
       <td>0.5429</td>
@@ -170,7 +170,7 @@ and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively.
       <td>0.5558</td>
     </tr>
 
-    <tr>
+   <tr>
       <td><strong>CoNSeP-Binary</strong></td>
       <td>0.6712</td>
       <td>0.5051</td>
