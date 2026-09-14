@@ -1,6 +1,6 @@
 # MSAR-UNet-A-Multi-Scale-Attention-Refinement-U-Net-Model-for-Microscopic-Medical-Image-Segmentation
 
-Abstract. Automatic and accurate nuclei segmentation in histopathol-
+Abstract:  Automatic and accurate nuclei segmentation in histopathol-
 ogy images is a fundamental task in computational pathology, yet it
 remains highly challenging due to complex nuclear morphologies, vari-
 ations in shape, size, and staining intensity, and frequent overlaps be-
@@ -20,11 +20,134 @@ tent improvements over the U-Net baselines and several state-of-the-art
 methods. MSAR-UNet achieves Dice scores of 80.69%, 83.48%, 77.26%,
 and 85.97%, with corresponding IoU scores of 67.66%, 71.65%, 62.94%,
 and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively. 
-
-
-
-
 <img width="2000" height="1125" alt="overall_Final_v3-1" src="https://github.com/user-attachments/assets/02fa2fb4-c695-44b0-b481-9bdd10d479e3" />
+
+
+<table>
+<tr>
+<th rowspan="2">Model Configuration</th>
+<th colspan="2">MoNuSeg</th>
+<th colspan="2">TNBC</th>
+<th colspan="2">CoNSeP</th>
+<th colspan="2">DDT1</th>
+</tr>
+<tr>
+<th>Dice</th>
+<th>IoU</th>
+<th>Dice</th>
+<th>IoU</th>
+<th>Dice</th>
+<th>IoU</th>
+<th>Dice</th>
+<th>IoU</th>
+</tr>
+
+<tr>
+<td>U-Net</td>
+<td>75.47</td>
+<td>60.65</td>
+<td>82.95</td>
+<td>70.86</td>
+<td>75.16</td>
+<td>60.20</td>
+<td>82.32</td>
+<td>70.31</td>
+</tr>
+
+<tr>
+<td>U-Net + MSDRB</td>
+<td>80.18</td>
+<td>66.95</td>
+<td>83.21</td>
+<td>71.24</td>
+<td>76.05</td>
+<td>61.36</td>
+<td>85.09</td>
+<td>74.38</td>
+</tr>
+
+<tr>
+<td><b>All (proposed)</b></td>
+<td><b>80.69</b></td>
+<td><b>67.66</b></td>
+<td><b>83.48</b></td>
+<td><b>71.65</b></td>
+<td><b>77.26</b></td>
+<td><b>62.94</b></td>
+<td><b>85.97</b></td>
+<td><b>75.58</b></td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
