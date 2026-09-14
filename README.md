@@ -23,7 +23,7 @@ and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively.
 
 <img width="2000" height="1125" alt="overall_Final_v3-1" src="https://github.com/user-attachments/assets/02fa2fb4-c695-44b0-b481-9bdd10d479e3" />
 
-
+# Model Ablation Table
 <table>
 <tr>
 <th rowspan="2">Model Configuration</th>
