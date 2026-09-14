@@ -3,4 +3,8 @@
 
 [overall_Final_v3 .pdf](https://github.com/user-attachments/files/32181001/overall_Final_v3.pdf)
 
+## 📄 PDF
+
+[View PDF](https://github.com/user-attachments/files/32181001/overall_Final_v3.pdf)
+
 
