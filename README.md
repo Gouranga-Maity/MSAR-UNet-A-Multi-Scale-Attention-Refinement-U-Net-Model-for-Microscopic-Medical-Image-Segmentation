@@ -137,8 +137,11 @@ and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively.
       <th rowspan="2">Train Dataset</th>
       <th colspan="2">MoNuSeg</th>
       <th colspan="2">CoNSeP-Binary</th>
+      <th colspan="2">DDT1</th>
     </tr>
     <tr>
+      <th>Dice</th>
+      <th>IoU</th>
       <th>Dice</th>
       <th>IoU</th>
       <th>Dice</th>
@@ -152,6 +155,8 @@ and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively.
       <td>—</td>
       <td>0.6712</td>
       <td>0.5051</td>
+      <td>0.6924</td>
+      <td>0.5298</td>
     </tr>
     <tr>
       <td><strong>MoNuSeg</strong></td>
@@ -159,11 +164,15 @@ and 75.58% on MoNuSeg, TNBC, CoNSeP, and DDT1, respectively.
       <td>—</td>
       <td>—</td>
       <td>—</td>
+      <td>0.7143</td>
+      <td>0.5558</td>
     </tr>
     <tr>
       <td><strong>CoNSeP-Binary</strong></td>
       <td>0.6924</td>
       <td>0.5298</td>
+      <td>—</td>
+      <td>—</td>
       <td>—</td>
       <td>—</td>
     </tr>
